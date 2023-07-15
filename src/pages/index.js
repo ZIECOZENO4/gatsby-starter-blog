@@ -22,6 +22,7 @@ const BlogLink = styled(Link)`
 
 const BlogBody = styled.div`
   margin-bottom: 50px;
+  back
 `
 
 export default ({ data }) => {
