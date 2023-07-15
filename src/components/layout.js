@@ -39,7 +39,7 @@ const Layout = ({ children }) => {
           © {new Date().getFullYear()}, Built by
           {` `}
           <a href="https://zieco-zeno.mailchimpsites.com/">ZENO WEB.COM</a>
-        </footer>
+        </footer>	
       </div>
     </>
   )
